@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="P52" size="20.000000 4.215938" />
+    <ImageTarget name="P51" size="20.000000 2.116850" />
+    <ImageTarget name="P50" size="20.000000 3.835616" />
+    <ImageTarget name="P49" size="20.000000 10.357895" />
+    <ImageTarget name="P48" size="20.000000 2.447059" />
+    <ImageTarget name="P47" size="20.000000 2.937577" />
+    <ImageTarget name="P46wolf" size="20.000000 13.612565" />
+    <ImageTarget name="P46turtle" size="20.000000 14.493670" />
+    <ImageTarget name="P45" size="20.000000 2.289377" />
+    <ImageTarget name="P44dragon" size="20.000000 11.265164" />
+    <ImageTarget name="P44wolf" size="20.000000 12.951542" />
+    <ImageTarget name="P43shark" size="20.000000 9.606299" />
+    <ImageTarget name="P43wolf" size="20.000000 12.097759" />
+    <ImageTarget name="P42" size="20.000000 2.209150" />
+    <ImageTarget name="P41" size="20.000000 2.006689" />
+    <ImageTarget name="P40" size="20.000000 2.183804" />
+    <ImageTarget name="P39" size="20.000000 2.685590" />
+    <ImageTarget name="P38wolf" size="20.000000 15.315315" />
+    <ImageTarget name="P38sheep" size="20.000000 13.211845" />
+    <ImageTarget name="P38" size="20.000000 2.651934" />
+    <ImageTarget name="P37" size="20.000000 1.793722" />
+    <ImageTarget name="P36" size="20.000000 3.555018" />
+    <ImageTarget name="P35" size="20.000000 2.876204" />
+    <ImageTarget name="P34" size="20.000000 4.557576" />
+    <ImageTarget name="P33" size="20.000000 4.355717" />
+    <ImageTarget name="P32" size="20.000000 2.697095" />
+    <ImageTarget name="P31" size="20.000000 3.699422" />
+    <ImageTarget name="P30wolf" size="20.000000 13.608248" />
+    <ImageTarget name="P30bird" size="20.000000 11.052631" />
+    <ImageTarget name="P29" size="20.000000 3.097015" />
+    <ImageTarget name="P28" size="20.000000 4.240283" />
+    <ImageTarget name="P27" size="20.000000 2.556256" />
+    <ImageTarget name="P26" size="20.000000 2.642369" />
+    <ImageTarget name="P24" size="20.000000 2.667552" />
+    <ImageTarget name="P23" size="20.000000 5.485232" />
+    <ImageTarget name="P22" size="20.000000 2.329545" />
+    <ImageTarget name="P21" size="20.000000 3.461279" />
+    <ImageTarget name="P20frog" size="20.000000 10.968992" />
+    <ImageTarget name="P20wolf" size="20.000000 5.652174" />
+    <ImageTarget name="P19" size="20.000000 4.539474" />
+    <ImageTarget name="P18" size="20.000000 2.259983" />
+    <ImageTarget name="P17" size="20.000000 3.751234" />
+    <ImageTarget name="P16" size="20.000000 1.680672" />
+    <ImageTarget name="P15" size="20.000000 3.247632" />
+    <ImageTarget name="P14" size="20.000000 3.521809" />
+  </Tracking>
+</QCARConfig>

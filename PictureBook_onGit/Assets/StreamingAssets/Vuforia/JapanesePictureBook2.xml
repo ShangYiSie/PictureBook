@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Meteor" size="20.000000 18.177458" />
+    <ImageTarget name="Sheep" size="20.000000 18.650000" />
+    <ImageTarget name="Fish" size="20.000000 12.270532" />
+    <ImageTarget name="Dragon2" size="20.000000 24.433498" />
+    <ImageTarget name="Dragon" size="20.000000 12.489451" />
+    <ImageTarget name="Crab" size="20.000000 18.278145" />
+    <ImageTarget name="Bricks" size="20.000000 13.922261" />
+    <ImageTarget name="Box" size="20.000000 18.040817" />
+    <ImageTarget name="Sun" size="20.000000 20.270269" />
+  </Tracking>
+</QCARConfig>

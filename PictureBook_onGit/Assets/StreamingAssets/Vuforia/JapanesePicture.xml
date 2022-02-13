@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tree" size="20.000000 26.600985" />
+    <ImageTarget name="beeHouse" size="20.000000 17.192982" />
+    <ImageTarget name="forest" size="20.000000 26.817043" />
+    <ImageTarget name="ship" size="20.000000 17.250000" />
+    <ImageTarget name="wolf2" size="20.000000 25.303867" />
+    <ImageTarget name="wolf1" size="20.000000 25.485714" />
+    <ImageTarget name="flog" size="20.000000 25.565218" />
+    <ImageTarget name="SheepMan" size="20.000000 21.228069" />
+    <ImageTarget name="OldLady" size="20.000000 36.829269" />
+    <ImageTarget name="Well" size="20.000000 20.000000" />
+    <ImageTarget name="Brid" size="20.000000 15.138122" />
+    <ImageTarget name="littlered" size="20.000000 32.954544" />
+  </Tracking>
+</QCARConfig>
